@@ -43,3 +43,15 @@ Categories(Factors plus Damage Level) Vs Total Fatalities Bar Chart
 Total Fatalities Vs Operators Bar Chart
 I then created a Tableau Dashboard;
 The link to the [SkyWay Airlines Aviation Analysis Dashboard](https://public.tableau.com/authoring/Phase1Project_17593596944020/SkywayAirlineAviationAnalysisDashboard/Skyway%20Airlines%20Aviation%20Analysis%20Dashboard#1)
+
+## **Recommendations**
+1. **Aircraft Purchase Decisions**  
+Skyway Airines should avoid purchasing aircraft types from the Douglas type, as most of its models have the highest number of fatalities. Instead, purchase safer aircraft types such as A.W. type and ATR type, as most of their models have lower or zero number of fatalities.
+2. **Risk Awareness and Reduction**  
+The most frequent potential risks are Accidents and Criminal Occurrences and often lead to Hull Loss (non-repairable damage). Other risks like Hijackings and Incidents also occur. Due to this, Skyway Airlines should invest more in safety measures and better emergency response systems to reduce both the frequency of occurrence and damage levels.
+3. **Operator Practices**  
+Airline operators with consistently high fatality numbers most likey have poor airline practices while those with low fatality numbers most likely have good airline practices. Due to this, Skyway Airlines should ensure to have good airline practices in order to grow in te industry and not damage the brand.
+
+## **Conclusions**
+From this aviation accident analysis, it is clear that both aircraft type and operator practices are very important in aviation safety. Some aircraft models like the Douglas series show consistently poor safety records while others like A.W. and ATR remain safer choices. Also, operators with poor safety practices mostly contribute to higher fatality rates while those with good safety practices mostly bring low fatality rates.  
+Overall, ensuring safety in aircraft type, good airline practices and good risk management is a solid foundation for Skyway Airlines.
